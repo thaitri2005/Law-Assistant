@@ -9,13 +9,18 @@ llama-index-vector-stores-pinecone
 llama-index-readers-google
 llama-index-embeddings-huggingface
 sentence-transformers
+torch
+transformers
+
+# Web Search
+google-api-python-client
+
+# Google Drive Auth
+google-auth-oauthlib
+google-auth-httplib2
 
 # Vector DB
 pinecone-client
-
-# Web Search
-tavily-python
-duckduckgo-search
 
 # Backend
 fastapi

@@ -34,8 +34,8 @@ The system is built as an **Agent-Augmented RAG** pipeline. It doesn't just retr
     *   *Why?* Managed service, good performance, easy to scale for production.
 
 ### 4. Web Search (Agent Tool)
-*   **Tavily API** (Recommended) or **DuckDuckGo**:
-    *   *Why?* Tavily is optimized for LLM agents (returns clean text, not just HTML).
+*   **Google Custom Search API**:
+    *   *Why?* Reliable and comprehensive search results directly from Google.
 
 ### 5. LLM & Embeddings
 *   **LLM**: Google Gemini 1.5 Pro.
