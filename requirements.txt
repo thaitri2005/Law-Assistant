@@ -1,0 +1,27 @@
+# Core Frameworks
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langgraph
+llama-index
+llama-index-vector-stores-pinecone
+llama-index-readers-google
+llama-index-embeddings-huggingface
+sentence-transformers
+
+# Vector DB
+pinecone-client
+
+# Web Search
+tavily-python
+duckduckgo-search
+
+# Backend
+fastapi
+uvicorn
+python-dotenv
+
+# Utilities
+pydantic
+requests
